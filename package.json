@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/MatheusFornari96/01-graphql-course/issues"
   },
-  "homepage": "https://github.com/MatheusFornari96/01-graphql-course#readme"
+  "homepage": "https://github.com/MatheusFornari96/01-graphql-course#readme",
+  "dependencies": {
+    "apollo-server": "^3.10.0",
+    "graphql": "^16.5.0"
+  }
 }
